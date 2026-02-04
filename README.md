@@ -1,4 +1,4 @@
-# projectIndiv-PHPUNIT
+# <div align="center">projectIndiv-PHPUNIT</div>
 
 # Installation
 <br>
