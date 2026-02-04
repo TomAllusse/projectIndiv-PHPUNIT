@@ -1,14 +1,14 @@
 # projectIndiv-PHPUNIT
 
-------------------------------------------------------------- Installation --------------------------------------------------------
+# Installation
 
 Installation de composer<br>
-# composer init
+<summary>composer init</summary>summary>
 
 Installation de PHPUNIT<br>
-# composer require --dev phpunit/phpunit
+<summary>composer require --dev phpunit/phpunit</summary>summary>
 
-------------------------------------------------------- Configuration de composer -------------------------------------------------
+# Configuration de composer
 
 Aller dans le fichier : "composer.json"<br>
 Modifier la ligne : "5"<br>
@@ -18,8 +18,8 @@ Doit donner ce résultat : <br>
 <img width="393" height="376" alt="image" src="https://github.com/user-attachments/assets/5a5ab773-0939-4127-80f2-0c774cf8a55a" />
 
 Puis mettre à jour le composer<br>
-# composer update
+<summary>composer update</summary>summary>
 
-------------------------------------------------------------- Ajout des dossier ---------------------------------------------------
+# Ajout des dossier
 
 A la fin ajouter le dossier "src" et "tests" à votre dossier racine
