@@ -3,7 +3,8 @@
 # Installation
 
 Installation de composer<br>
-<summary>composer init</summary>summary>
+```bash
+composer init
 
 Installation de PHPUNIT<br>
 <summary>composer require --dev phpunit/phpunit</summary>summary>
