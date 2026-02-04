@@ -2,7 +2,7 @@
 
 # Installation
 
-*Installation de composer
+<summary>Installation de composer</summary>
 ```bash
 composer init
 ```
